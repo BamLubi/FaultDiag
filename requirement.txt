@@ -1,0 +1,10 @@
+nltk
+numpy
+pandas
+gensim
+tqdm
+matplotlib
+keras
+bayes_opt
+lightgbm
+drain3
